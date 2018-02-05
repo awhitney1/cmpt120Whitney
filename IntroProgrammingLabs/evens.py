@@ -3,7 +3,7 @@
 # Chapter 1 looping
 
 for i in range(2,21):
-    if (x % 2 == 0):
+    if (i % 2 == 0): # JA: Changed to i
         print (i)
 
 
